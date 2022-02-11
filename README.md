@@ -11,6 +11,6 @@ to [ingest data from EVM blockchains](https://github.com/fremantle-industries/sl
 
 I [explore data](https://github.com/fremantle-industries/history) for fun and enjoy extracting insights that can be visualized or to make decisions.
 
-I'm currently learning Rust.
+I'm currently learning Rust by building a [version controlled, database with cryptographically verifiable storage, queries and results](https://github.com/fremantle-industries/signaturedb).
 
 Check out my [profile](https://rupurt.github.io) to learn more...
