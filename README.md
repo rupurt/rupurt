@@ -2,15 +2,20 @@
 
 I'm a full stack software developer with a love for building tools.
 
-I've fallen head over heels for Elixir and the BEAM runtime due to its developer productivity, performance and reliability, particularly under concurrent workloads.
+I love the challenge of building complex distributed systems for large scale transactional
+and analytical streaming workloads for domains such as high frequency trading, data
+engineering and anomaly detection.
 
-I published a modular CeFi/DeFi trading platform in Elixir called [prop](https://github.com/fremantle-industries/prop). And extracted libraries 
-to [ingest data from EVM blockchains](https://github.com/fremantle-industries/slurpee), cluster a fleet of 
-[trading advisors](https://github.com/fremantle-industries/tai), configure the cluster with [simple DSLs](https://github.com/rupurt/juice) and 
-[deploy](https://github.com/fremantle-industries/wrap) it all to production.
+I've been fortunate enough to work with many great languages and tools over the years and have
+enjoyed the opportunity to [publish](https://github.com/rupurt) much of my work as
+open source code. I'm the author of the most popular Elixir trading libraries through
+the [tai](https://github.com/fremantle-industries/tai) toolkit which can be composed as a full
+CeFi/DeFi trading platform called [prop](https://github.com/fremantle-industries/prop).
 
-I [explore data](https://github.com/fremantle-industries/history) for fun and enjoy extracting insights that can be visualized or to make decisions.
-
-I'm currently learning Rust by building a [version controlled, database with cryptographically verifiable storage, queries and results](https://github.com/fremantle-industries/signaturedb).
+I've learned a great deal about building reliable distributed systems in the presence of errors
+through the Elixir/Erlang OTP ecosystem and have applied them in a golang streaming lakehouse
+based on the [kappa](https://milinda.pathirage.org/kappa-architecture.com) architecture to help
+tame dataflow to productively build ambitious, data driven & reactive applications in a library
+called [tabletop](https://github.com/fremantle-industries/tabletop).
 
 Check out my [profile](https://rupurt.github.io) to learn more...
