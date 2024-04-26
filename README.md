@@ -33,8 +33,9 @@ Check out my [profile](https://rupurt.github.io) to learn more...
 
 #### Python
 
-- [llm-http-api](https://github.com/rupurt/llm-http-api)
-- [pydanticutils](https://github.com/rupurt/pydanticutils)
+- [llm-http-api](https://github.com/rupurt/llm-http-api) - HTTP API for LLM with OpenAI compatibility
+- [pydanticutils](https://github.com/rupurt/pydanticutils) - Pydantic utility helpes
+- [typerutils](https://github.com/rupurt/typerutils) - Typer utility helpers
 
 #### C++
 
