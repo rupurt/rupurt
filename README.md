@@ -34,6 +34,7 @@ Check out my [profile](https://rupurt.github.io) to learn more...
 #### Python
 
 - [llm-http-api](https://github.com/rupurt/llm-http-api)
+- [pydanticutils](https://github.com/rupurt/pydanticutils)
 
 #### C++
 
