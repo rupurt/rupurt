@@ -22,15 +22,6 @@ Check out my [profile](https://rupurt.github.io) to learn more...
 
 ### Projects
 
-#### Zig
-
-- [duckdb-extension-template-zig](https://github.com/rupurt/duckdb-extension-template-zig) - A Zig template for building DuckDB extensions
-- [zodbc](https://github.com/rupurt/zodbc) - A blazing fast ODBC Zig client
-- [spoke](https://github.com/spoke-data/spoke) - Universal data connector
-- [transit](https://github.com/fremantle-industries/transit) - A bytes first implementation of the Kafka API within an S3 keyspace
-- [utc](https://github.com/rupurt/utc) - Universal transpiler collection
-- [tif](https://github.com/rupurt/tif) - Lightning fast tabular diffs, patches and merges for larger than memory datasets
-
 #### Python
 
 - [llm-http-api](https://github.com/rupurt/llm-http-api) - HTTP API for LLM with OpenAI compatibility
@@ -42,6 +33,15 @@ Check out my [profile](https://rupurt.github.io) to learn more...
 #### C++
 
 - [odbc-scanner-duckdb-extension](https://github.com/rupurt/odbc-scanner-duckdb-extension) - A DuckDB extension to read data directly from databases supporting the ODBC interface
+
+#### Zig
+
+- [duckdb-extension-template-zig](https://github.com/rupurt/duckdb-extension-template-zig) - A Zig template for building DuckDB extensions
+- [zodbc](https://github.com/rupurt/zodbc) - A blazing fast ODBC Zig client
+- [spoke](https://github.com/spoke-data/spoke) - Universal data connector
+- [transit](https://github.com/fremantle-industries/transit) - A bytes first implementation of the Kafka API within an S3 keyspace
+- [utc](https://github.com/rupurt/utc) - Universal transpiler collection
+- [tif](https://github.com/rupurt/tif) - Lightning fast tabular diffs, patches and merges for larger than memory datasets
 
 #### Nix
 
