@@ -37,6 +37,7 @@ Check out my [profile](https://rupurt.github.io) to learn more...
 - [pydanticutils](https://github.com/rupurt/pydanticutils) - Pydantic utility helpes
 - [typerutils](https://github.com/rupurt/typerutils) - Typer utility helpers
 - [quartutils](https://github.com/rupurt/quartutils) - Quart utility helpers
+- [winion](https://github.com/rupurt/winion) - A producer/consumer async runtime for Python
 
 #### C++
 
