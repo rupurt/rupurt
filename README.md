@@ -1,34 +1,28 @@
 ### Howdy 👋
 
-I'm a full stack software developer with a love for building tools.
+I'm a full stack software developer with a love for building tools makes the lives of other developers easier :)
 
-I love the challenge of building complex distributed systems for large scale transactional
-and analytical streaming workloads for domains such as high frequency trading, data
-engineering and anomaly detection.
+I've been fortunate to work in a wide array of languages at scale and have a deep passion
+for working on data driven projects.
 
-I've been fortunate enough to work with many great languages and tools over the years and have
-enjoyed the opportunity to [publish](https://github.com/rupurt) much of my work as
-open source code. I'm the author of the most popular Elixir trading libraries through
-the [tai](https://github.com/fremantle-industries/tai) toolkit which can be composed as a full
-CeFi/DeFi trading platform called [prop](https://github.com/fremantle-industries/prop).
+I love restoring old tools and machines like lawnmowers and trucks so naturally my work days
+are spent modernizing legacy COBOL mainframes for large enterprises at [Mechanical Orchard](https://www.mechanical-orchard.com/).
+Feel free to get in touch if you need to migrate your [EBCDIC/VSAM datasets or DB2/IMS/IDMS databases](https://www.linkedin.com/posts/alexanderkwiatkowski_mechanical-orchard-announcement-activity-7313617570564083713-csRZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACafmMBXA48UQY9rfVpSwJCU9uW690zhTA).
 
-I've learned a great deal about building reliable distributed systems in the presence of errors
-through the Elixir/Erlang OTP ecosystem and have applied them in a golang streaming lakehouse
-based on the [kappa](https://milinda.pathirage.org/kappa-architecture.com) architecture to help
-tame dataflow to productively build ambitious, data driven & reactive applications in a library
-called [tabletop](https://github.com/fremantle-industries/tabletop).
+I spend most of my free time within the python and C based ecosystems such as Zig, C, C++.
+I'm drawn towards solving high scale data problems once and for all!!
 
-Check out my [profile](https://rupurt.github.io) to learn more...
+Check out my [profile](https://rupurt.github.io) and [projects](#projects) to learn more...
 
 ### Projects
 
 #### Python
 
 - [llm-http-api](https://github.com/rupurt/llm-http-api) - HTTP API for LLM with OpenAI compatibility
-- [pydanticutils](https://github.com/rupurt/pydanticutils) - Pydantic utility helpes
+- [pydanticutils](https://github.com/rupurt/pydanticutils) - Pydantic utility helpers
 - [typerutils](https://github.com/rupurt/typerutils) - Typer utility helpers
-- [quartutils](https://github.com/rupurt/quartutils) - Quart utility helpers
-- [winion](https://github.com/rupurt/winion) - A producer/consumer async runtime for Python
+- [kop](https://github.com/rupurt/kop) - Modern python kubernetes operators
+- [economy](https://github.com/rupurt/economy) - Utility library for Apache Arrow Flight & Flight SQL servers
 
 #### C++
 
@@ -48,7 +42,7 @@ Check out my [profile](https://rupurt.github.io) to learn more...
 - [duckdb-nix](https://github.com/rupurt/duckdb-nix) - Nix flake for development with multiple DuckDB versions
 - [odbc-drivers-nix](https://github.com/rupurt/odbc-drivers-nix) - Nix flake for ODBC drivers
 - [bun-nix](https://github.com/rupurt/bun-nix) - Nix flake for bun.sh
-- [gnu-cobol-nix](https://github.com/rupurt/gnu-cobol-nix) - Nix flake to build GnuCOBOL and GnuCOBOL Contrib
+- [gnucobol-nix](https://github.com/rupurt/gnucobol-nix) - Nix flake to build GnuCOBOL and GnuCOBOL Contrib
 - [kcctl](https://github.com/rupurt/kcctl-nix) - Nix flake for kcctl
 - [xxdnix](https://github.com/rupurt/xxdnix) - Nix flake for xxd supporting wider columns
 - [odbc2parquet-nix](https://github.com/rupurt/odbc2parquet-nix) - Nix flake for odbc2parquet
