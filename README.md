@@ -16,6 +16,10 @@ Check out my [profile](https://rupurt.github.io) and [projects](#projects) to le
 
 ### Projects
 
+#### Big Data Infrastructure
+
+- [kafka-k8s-skaffold](https://github.com/rupurt/kafka-k8s-skaffold) - Kafka deployment on Kubernetes with Skaffold
+
 #### Python
 
 - [llm-http-api](https://github.com/rupurt/llm-http-api) - HTTP API for LLM with OpenAI compatibility
