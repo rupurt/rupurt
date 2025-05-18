@@ -19,6 +19,7 @@ Check out my [profile](https://rupurt.github.io) and [projects](#projects) to le
 #### Big Data Infrastructure
 
 - [kafka-k8s-skaffold](https://github.com/rupurt/kafka-k8s-skaffold) - Kafka deployment on Kubernetes with Skaffold
+- [minio-k8s-skaffold](https://github.com/rupurt/minio-k8s-skaffold) - MinIO deployment on Kubernetes with Skaffold
 
 #### Python
 
